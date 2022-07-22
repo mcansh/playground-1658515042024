@@ -1,0 +1,8 @@
+/public/build
+
+/prisma/data.db
+/prisma/data.db-journal
+
+/app/styles
+
+/node_modules
